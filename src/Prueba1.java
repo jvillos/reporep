@@ -6,6 +6,7 @@ public class Prueba1 {
 		int a=10;
 		int b=57;
 		System.out.println(a);
+		System.out.println(b);
 	}
 
 }
